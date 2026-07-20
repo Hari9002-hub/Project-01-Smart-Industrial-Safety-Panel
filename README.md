@@ -69,9 +69,25 @@ Project-01-Smart-Industrial-Safety-Panel
 
 ## 📸 Project Images
 
-Project images will be uploaded soon.
+### Breadboard Setup
 
----
+![Breadboard](breadboard.jpeg)
+
+### Project View 1
+
+![Project 1](smart industrial (1).jpg)
+
+### Project View 2
+
+![Project 2](smart industrial (2).jpg)
+
+### Project View 3
+
+![Project 3](smart industrial (3).jpg)
+
+### Project View 4
+
+![Project 4](smart industrial (4).jpg)
 
 ## 🚀 Future Improvements
 
