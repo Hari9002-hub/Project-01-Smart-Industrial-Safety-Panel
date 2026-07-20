@@ -84,6 +84,16 @@ Project-01-Smart-Industrial-Safety-Panel
 ### Project View 4
 ![Project 4](project4.jpg)
 
+🌐 Local Web Dashboard
+
+The ESP32 hosts a responsive web dashboard that displays:
+- Temperature
+- Humidity
+- Distance
+- IR Sensor Status
+- Device Status
+- Real-time updates
+
 ## 🚀 Future Improvements
 
 - Cloud Monitoring
