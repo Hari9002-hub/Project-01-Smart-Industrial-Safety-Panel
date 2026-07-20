@@ -70,24 +70,19 @@ Project-01-Smart-Industrial-Safety-Panel
 ## 📸 Project Images
 
 ### Breadboard Setup
-
 ![Breadboard](breadboard.jpeg)
 
 ### Project View 1
-
-![Project 1](smart industrial (1).jpg)
+![Project 1](project1.jpg)
 
 ### Project View 2
-
-![Project 2](smart industrial (2).jpg)
+![Project 2](project2.jpg)
 
 ### Project View 3
-
-![Project 3](smart industrial (3).jpg)
+![Project 3](project3.jpg)
 
 ### Project View 4
-
-![Project 4](smart industrial (4).jpg)
+![Project 4](project4.jpg)
 
 ## 🚀 Future Improvements
 
