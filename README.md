@@ -103,7 +103,7 @@ The ESP32 hosts a responsive web dashboard that allows real-time monitoring of s
 
 ### Live Monitoring
 
-![Live Monitoring](dashboard2.png)
+![Live Monitoring](dashboard2 .png)
 
 ### Sensor Status
 
