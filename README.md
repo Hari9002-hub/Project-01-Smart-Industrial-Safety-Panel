@@ -93,6 +93,25 @@ The ESP32 hosts a responsive web dashboard that displays:
 - IR Sensor Status
 - Device Status
 - Real-time updates
+- ## 🌐 Local Web Dashboard
+
+The ESP32 hosts a responsive web dashboard that allows real-time monitoring of sensor values and system status.
+
+### Dashboard Home
+
+![Dashboard Home](dashboard1.png)
+
+### Live Monitoring
+
+![Live Monitoring](dashboard2.png)
+
+### Sensor Status
+
+![Sensor Status](dashboard3.png)
+
+### Mobile View
+
+![Mobile View](dashboard4.png)
 
 ## 🚀 Future Improvements
 
